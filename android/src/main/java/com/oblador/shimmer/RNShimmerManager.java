@@ -4,7 +4,7 @@ package com.oblador.shimmer;
 import com.facebook.react.uimanager.ThemedReactContext;
 import com.facebook.react.uimanager.ViewGroupManager;
 import com.facebook.react.uimanager.annotations.ReactProp;
-import com.facebook.shimmer.Shimmer;
+import com.facebook.hbshimmer.Shimmer;
 
 public class RNShimmerManager extends ViewGroupManager<RNShimmeringView> {
 

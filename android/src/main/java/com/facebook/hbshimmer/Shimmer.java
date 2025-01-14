@@ -6,7 +6,7 @@
  * LICENSE file in the root directory of this source tree.
  */
 
-package com.facebook.shimmer;
+package com.facebook.hbshimmer;
 
 import android.animation.ValueAnimator;
 import android.content.Context;

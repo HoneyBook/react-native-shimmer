@@ -5,8 +5,8 @@ import android.content.Context;
 import android.os.Build;
 import android.util.AttributeSet;
 
-import com.facebook.shimmer.Shimmer;
-import com.facebook.shimmer.ShimmerFrameLayout;
+import com.facebook.hbshimmer.Shimmer;
+import com.facebook.hbshimmer.ShimmerFrameLayout;
 
 
 public class RNShimmeringView extends ShimmerFrameLayout {

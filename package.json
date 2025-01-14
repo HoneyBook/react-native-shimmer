@@ -1,6 +1,6 @@
 {
-  "name": "@rathoddeepak/react-native-shimmer",
-  "version": "0.8.0",
+  "name": "@honeybook/react-native-shimmer",
+  "version": "0.8.1",
   "description": "Simple shimmering effect in React Native",
   "main": "index.js",
   "scripts": {
